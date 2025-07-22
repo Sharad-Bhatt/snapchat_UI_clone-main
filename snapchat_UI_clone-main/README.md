@@ -1,10 +1,5 @@
 # Snapchat UI Clone
 
-I just blocked Team Snapchat in my own version 🤫...
-
-# YouTube Speed Code (Outdated - Just the Auth Part)
-
-https://youtu.be/qixrls_TDbE
 
 # Screen Shots (Recent)
 <img width="746" alt="Screenshot 2023-03-06 at 7 58 03 PM" src="https://user-images.githubusercontent.com/64004539/223146983-e2d4fdab-50ea-4104-9709-78d5c18ff253.png">
@@ -22,11 +17,3 @@ https://youtu.be/qixrls_TDbE
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
